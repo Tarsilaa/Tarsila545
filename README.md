@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4D4DFF&size=35&center=true&vCenter=true&width=900&lines=Prazer!+Meu+nome+é+Bárbara+Barros,;mas+pode+me+chamar+de+Babi!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4D4DFF&size=35&center=true&vCenter=true&width=900&lines=Prazer!+Meu+nome+é+Tarsila+Moura,;mas+pode+me+chamar+de+Tarsi!;)](https://git.io/typing-svg)
 
 -😊Eu sou @tarsilamoura<br>
 -📚Atualmente estou estudando programação no IOS(Instituto da Oportunidade Social)<br>
